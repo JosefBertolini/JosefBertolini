@@ -2,7 +2,7 @@
 
 My name, as you can tell from my username, is Josef Bertolini. I am currently a Senior at UCI majoring in Computer Game Science and doubling in a Computer Science degree specializing in Systems Programming. 
 
-Check out more at [my website](josefbertolini.github.io "Personal Website")
+Check out more at [my website](https://www.josefbertolini.github.io "Personal Website")
 
 ### Current Projects:
   * A C++ Desktop Application that tracks macro-nutrients every day
