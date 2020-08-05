@@ -2,6 +2,8 @@
 
 My name, as you can tell from my username, is Josef Bertolini. I am a Senior at UCI majoring in Computer Game Science and doubling in a Computer Science degree specializing in Systems Programming currently and I'm aspring to one day make some of the best games on the market.
 
+I'm set to graduate in June 2021.
+
 Check out more about me at [my website.](https://josefbertolini.github.io "Personal Website")
 
 ### Places you can find me:
