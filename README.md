@@ -12,7 +12,7 @@ Check out more about me at [my website.](https://josefbertolini.github.io "Perso
   * [Steam](https://steamcommunity.com/profiles/76561198357318950/ "My Steam Profile")
 
 ### Current Projects:
-  * A C++ Desktop Application that tracks macro-nutrients every day
+  * Rewriting my website using CSS Grid and Flexbox
   * Recreating old C++ Homework in Rust
 
 ### Currently Learning:
