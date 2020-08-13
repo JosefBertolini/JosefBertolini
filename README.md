@@ -4,7 +4,7 @@ My name, as you can tell from my username, is Josef Bertolini. I am a Senior at 
 
 I'm set to graduate in June 2021.
 
-Check out more about me at [my website.](https://josefbertolini.github.io "Personal Website")
+Check out more about me at [my website](https://josefbertolini.github.io "Personal Website") or by looking at [my resume.](https://josefbertolini.github.io/resources/files/resume.pdf "Resume")
 
 ### Places you can find me:
   * [My Email](mailto:joebertolini2013@gmail.com "Send Me Something")
@@ -12,13 +12,13 @@ Check out more about me at [my website.](https://josefbertolini.github.io "Perso
   * [Steam](https://steamcommunity.com/profiles/76561198357318950/ "My Steam Profile")
 
 ### Current Projects:
-  * Rewriting my website using CSS Grid and Flexbox
+  * Wewriting a game project to create a cleaner project to begine developement again
   * Recreating old C++ Homework in Rust
 
 ### Currently Learning:
-  * The Rust Programming Language
-  * Making Responsive Webpages
   * How to Crack a Coding Interview
+  * Making Responsive Webpages
+  * Universal Windows Platform
 
 ### Potential Future Projects:
   * A Chip-8 Emulator
