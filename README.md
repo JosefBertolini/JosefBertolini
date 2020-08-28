@@ -12,13 +12,13 @@ Check out more about me at [my website](https://josefbertolini.github.io "Person
   * [Steam](https://steamcommunity.com/profiles/76561198357318950/ "My Steam Profile")
 
 ### Current Projects:
-  * Wewriting a game project to create a cleaner project to begine developement again
+  * Rewriting a game project to create a cleaner project to begin developement again
   * Recreating old C++ Homework in Rust
 
 ### Currently Learning:
   * How to Crack a Coding Interview
-  * Making Responsive Webpages
-  * Universal Windows Platform
+  * C#
+  * More Advanced Unity Features
 
 ### Potential Future Projects:
   * A Chip-8 Emulator
