@@ -13,7 +13,7 @@ Check out more about me at [my website](https://josefbertolini.github.io "Person
 
 ### Current Projects:
   * Rewriting a game project to create a cleaner project to begin developement again
-  * Recreating old C++ Homework in Rust
+  * Nutrition Tracker \[COMPLETED]
 
 ### Currently Learning:
   * How to Crack a Coding Interview
