@@ -2,7 +2,7 @@
 
 My name, as you can tell from my username, is Josef Bertolini. I am a UCI alum and a Software Engineer at Ezoic. I also like to make games as a hobby.
 
-Check out more about me at [my website](https://josefbertolini.github.io "Personal Website") _Warning: it's fairly outdated_
+Check out more about me at [my website](https://josefbertolini.github.io "Personal Website")
 
 ### Places you can find me:
   * [My Email](mailto:joebertolini2013@gmail.com "Send Me Something")
