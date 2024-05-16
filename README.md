@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-My name, as you can tell from my username, is Josef Bertolini. I am a UCI alum and a Software Engineer at Microsoft. I also like to make games as a hobby.
+My name, as you can tell from my username, is Josef Bertolini. I am a UCI alum and a Software Engineer. I also like to make games as a hobby.
 
 Check out more about me at [my website](https://josefbertolini.github.io "Personal Website")
 
